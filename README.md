@@ -1,4 +1,6 @@
-2048x8
+Game #15
 ======
+Based on [2048](http://gabrielecirulli.github.io/2048/) by Gabriele Cirulli
 
-2048
+## License
+Game #15 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
